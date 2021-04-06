@@ -1,0 +1,11 @@
+framework module Odometer {
+  umbrella header "Odometer.h"
+
+  export *
+  module * { export * }
+}
+
+module Odometer.Swift {
+    header "Odometer-Swift.h"
+    requires objc
+}
