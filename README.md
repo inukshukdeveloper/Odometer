@@ -8,7 +8,7 @@ This Swift package allows the addition of a view to animate an odometer.
 
 ## Installing the Odometer
 
-The odometer is distributed as a Swift package.  To install in Xcode, select File->Swift Packages->Add Package Dependency.
+The odometer is distributed as binary framework in a Swift package.  To install in Xcode, select File->Swift Packages->Add Package Dependency.
 
 ## Class Reference
 
