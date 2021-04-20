@@ -1,1 +1,2 @@
-*.obj linguist-detectable=false
+*.m linguist-detectable=false
+*.h linguist-detectable=false
