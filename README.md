@@ -6,6 +6,10 @@ Custom animated view to animate an odometer for iOS apps.
 
 This Swift package allows the addition of a view to animate an odometer.
 
+![alt-text](https://github.com/inukshukdeveloper/Odometer/blob/main/Compass%20and%20Odometer.gif)
+
+(note: animation shows the odometer with the compass which is a separate module)
+
 ## Installing the Odometer
 
 The odometer is distributed as binary framework in a Swift package.  To install in Xcode, select File->Swift Packages->Add Package Dependency.
