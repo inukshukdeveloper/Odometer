@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/Odometer.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		4YuFbTaYMY0elP3Sro94WHqOi1Q=
+		3Xu7Ksj5Qf5Hk7XrigJIXxxRoic=
 		</data>
 		<key>Modules/Odometer.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b3MVW4i43IzaVlp1s5bP9J02GBc=
+		TNZD09RbpFef5Asg7g5kT+ixWWU=
 		</data>
 		<key>Modules/Odometer.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/Odometer.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		4YuFbTaYMY0elP3Sro94WHqOi1Q=
+		3Xu7Ksj5Qf5Hk7XrigJIXxxRoic=
 		</data>
 		<key>Modules/Odometer.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		b3MVW4i43IzaVlp1s5bP9J02GBc=
+		TNZD09RbpFef5Asg7g5kT+ixWWU=
 		</data>
 		<key>Modules/Odometer.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/Odometer.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qZldAbMWnsyzdvdRPo9Pmd61bsI=
+		0hfifA6l9OTiH0D8aPxKLCOXhVw=
 		</data>
 		<key>Modules/Odometer.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EJMXdws4fSXRlOHjbwSITr4/bi0=
+		2iFlcvdxt0wh1unTo5gYhtJeu18=
 		</data>
 		<key>Modules/Odometer.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/Odometer.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		qZldAbMWnsyzdvdRPo9Pmd61bsI=
+		0hfifA6l9OTiH0D8aPxKLCOXhVw=
 		</data>
 		<key>Modules/Odometer.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		EJMXdws4fSXRlOHjbwSITr4/bi0=
+		2iFlcvdxt0wh1unTo5gYhtJeu18=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -96,14 +96,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KIMkkYnmCb3zmvYdKCV60NwtN/cu21dF5/m8zpG6M+c=
+			sJbdyARybnr3Wb3tjTsBUBQFSXVStlXBdP8zPqZmpPk=
 			</data>
 		</dict>
 		<key>Modules/Odometer.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7WrIYkGMvgSF047+vf7wH+aP1A6cIy23wMSMuml3x+0=
+			Nsl3k2FvnpcuD/GtGT40h2IMixGpfwq0Z/CJ35+ggGo=
 			</data>
 		</dict>
 		<key>Modules/Odometer.swiftmodule/arm64.swiftdoc</key>
@@ -117,14 +117,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KIMkkYnmCb3zmvYdKCV60NwtN/cu21dF5/m8zpG6M+c=
+			sJbdyARybnr3Wb3tjTsBUBQFSXVStlXBdP8zPqZmpPk=
 			</data>
 		</dict>
 		<key>Modules/Odometer.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7WrIYkGMvgSF047+vf7wH+aP1A6cIy23wMSMuml3x+0=
+			Nsl3k2FvnpcuD/GtGT40h2IMixGpfwq0Z/CJ35+ggGo=
 			</data>
 		</dict>
 		<key>Modules/Odometer.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -138,14 +138,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8uzKPS3ROGfVRvsFkhUJsPJC/EkESYT2TXeuDw0J6YM=
+			eCr/2KWn9BMKjFWXxcQvOK0RTViOtx45vea2ZwAOUZ4=
 			</data>
 		</dict>
 		<key>Modules/Odometer.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PGlHhM03t9xwj4T/Wm4IeBkPK7CVSjRDZ3SATFCERMs=
+			CwBl30eFnDWLkWiPHYxiA8V0eJRGluOz/R7SB6z+y9g=
 			</data>
 		</dict>
 		<key>Modules/Odometer.swiftmodule/x86_64.swiftdoc</key>
@@ -159,14 +159,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8uzKPS3ROGfVRvsFkhUJsPJC/EkESYT2TXeuDw0J6YM=
+			eCr/2KWn9BMKjFWXxcQvOK0RTViOtx45vea2ZwAOUZ4=
 			</data>
 		</dict>
 		<key>Modules/Odometer.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PGlHhM03t9xwj4T/Wm4IeBkPK7CVSjRDZ3SATFCERMs=
+			CwBl30eFnDWLkWiPHYxiA8V0eJRGluOz/R7SB6z+y9g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
