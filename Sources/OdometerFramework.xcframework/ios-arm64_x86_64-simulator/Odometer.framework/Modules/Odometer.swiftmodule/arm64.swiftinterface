@@ -1,7 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
 // swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Odometer
-import Combine
 import Foundation
 @_exported import Odometer
 import Swift
@@ -10,7 +9,6 @@ public enum OdometerError : Swift.Error {
   case InvalidDigitNum
   case InvalidFontSize
   case InvalidMileage
-  case InvalidSpinTime
   public static func == (a: Odometer.OdometerError, b: Odometer.OdometerError) -> Swift.Bool
   public var hashValue: Swift.Int {
     get
@@ -19,7 +17,6 @@ public enum OdometerError : Swift.Error {
 }
 @objc public class OdometerView : UIKit.UIView {
   public var fontSize: CoreGraphics.CGFloat
-  public var tickNotification: Swift.String?
   public init(frame: CoreGraphics.CGRect, digitNum: Swift.Int, fontsize: CoreGraphics.CGFloat) throws
   @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
   public func updateMileage(mileage: Swift.Int, spin: Swift.Bool = false, maxSpinTime: Swift.Double = 10.0) throws
